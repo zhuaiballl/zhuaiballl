@@ -1,16 +1,22 @@
-### Hi there 👋
+### Hi there 👋 I'm zhuaiballl
 
-<!--
-**zhuaiballl/zhuaiballl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on blockchain development
+- 🌱 I’m currently learning cryptography
+- 🎓 I've Graduated from Beijing Normal University
+- 🏫 I'm Studying at Shandong University
 
-Here are some ideas to get you started:
+### 🏆 Contest Experience
+---
+[ICPC](https://icpc.global/ICPCID/2E9RAMPG2O1V) | CCPC | [Codeforces](http://codeforces.com/profile/zhuaiballl)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📊 GitHub Stats:
+---
+![zhuaiballl github stats](https://github-readme-stats.vercel.app/api?username=zhuaiballl&theme=radical&show_icons=true&count_private=true)
+
+![zhuaiballl Stats](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=zhuaiballl&theme=solarized_dark)
+![zhuaiballl Stats](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=zhuaiballl&theme=solarized_dark)
+![zhuaiballl Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kakise&theme=solarized_dark)
+
+### 📧 Contact Me:
+---
+ghc@mail.bnu.edu.cn
