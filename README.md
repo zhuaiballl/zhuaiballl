@@ -15,7 +15,7 @@
 
 ![zhuaiballl Stats](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=zhuaiballl&theme=solarized_dark)
 ![zhuaiballl Stats](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=zhuaiballl&theme=solarized_dark)
-![zhuaiballl Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kakise&theme=solarized_dark)
+![zhuaiballl Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zhuaiballl&theme=solarized_dark)
 
 ### 📧 Contact Me:
 ---
