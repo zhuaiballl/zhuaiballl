@@ -8,7 +8,9 @@
 ### 🏆 Contest Experience
 [Competitive Programming Hall of Fame](https://cphof.org/profile/topcoder:zhuaiballl)
 
-[ICPC](https://icpc.global/ICPCID/2E9RAMPG2O1V) | CCPC | [Codeforces](http://codeforces.com/profile/zhuaiballl)
+[ICPC](https://icpc.global/ICPCID/2E9RAMPG2O1V) | CCPC | [Codeforces](http://codeforces.com/profile/zhuaiballl) 
+
+![Project Euler](https://projecteuler.net/profile/zhuaiballl.png)
 
 ---
 ### 📊 GitHub Stats:
