@@ -1,8 +1,8 @@
-## Hi there 👋 I'm zhuaiballl
+## Hi there 👋 I'm zhuaiballl, aka Hechuan Guo
 
 - 🔭 I’m currently working on blockchain research & development
-- 🎓 I've Graduated from Beijing Normal University
-- 🏫 I'm Studying at Shandong University
+- 🎓 I've Graduated from Shandong University
+- 🍚 I'm serving as a postdoc at Shandong University
 
 ---
 ## 🏆 Contest Experience & Prizes
@@ -27,4 +27,4 @@
 
 ---
 ## 📧 Contact Me:
-ghc@mail.sdu.edu.cn
+hcguo@sdu.edu.cn
